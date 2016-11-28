@@ -12,6 +12,19 @@ The purpose of this lesson is not to teach how to do data analysis in spreadshee
 but to teach good data organization and how to do some data cleaning and 
 quality control checking in a spreadsheet program.
 
+### Slides for this lesson
+
+Slides for this lesson: [Slides as Powerpoint](slides/spreadsheets.pptx) or [Slides as pdf](slides/spreadsheets.pdf)
+
+The slides go through the whole narrative, with section breaks and exercises. 
+
+**Use the slides to teach this lesson**
+
+### Data
+
+Data files for the lesson are [available here](https://www.dropbox.com/s/oirb1rzjzb1vjsg/gapminder-messy.xls?dl=1)
+
+
 ### Narrative
 
 The narrative of this lesson is to 
@@ -57,13 +70,12 @@ run through that exercise.
 up date as an issue during the responses, or at the end of the response time.**
 
 **In 04-quality-control**  
-*This lesson currently needs updating*  
-- Go through the exercises on different strategies for quality control, including
-sorting, conditional formatting and pivot tables. 
+*This lesson exists, but should not currently be taught.*
+
 
 **In 05-exporting-data**  
-- Have the students export their cleaned data as csv. Reiterate again the need for
-data in this format for the other tools we'll be using.
+- Discuss the guidelines for exporting and saving data
+
 
 **In 06-data-format-caveats**  
 - This is mainly here as a reference if people have questions about different file formats. 

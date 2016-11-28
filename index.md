@@ -52,11 +52,16 @@ See [Instructor notes](http://datacarpentry.github.io/spreadsheet-ecology-lesson
 5. [Exporting data](05-exporting-data.html)
 6. [Data Format Caveats](06-data-formats-caveats.html)
 
+## Slides
+
+Slides for this lesson: [Slides as Powerpoint](slides/spreadsheets.pptx) or [Slides as pdf](slides/spreadsheets.pdf)
+
 
 
 ## Data
 
-Data files for the lesson are available here: [{{page.dataurl %}}]({{page.dataurl %}})
+Data files for the lesson are [available here](https://www.dropbox.com/s/oirb1rzjzb1vjsg/gapminder-messy.xls?dl=1)
+
 
 
 ### Requirements
