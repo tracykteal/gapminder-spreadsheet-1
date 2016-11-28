@@ -23,7 +23,7 @@ Let's try with a simple challenge.
 
 #### Challenge: pulling month, day and year out of dates ####
 
-- In the `dates` tab of your Excel file you have the data from 2014 plot 3. There's a `Date collected` column.
+- In the `population` tab of your Excel file you have the data for population. There's a `Date data collected` column.
 - Let’s extract month and year from the dates to new columns. For this we can use the built in Excel functions
 
 ```
@@ -34,8 +34,6 @@ Let's try with a simple challenge.
 
 (Make sure the new column is formatted as a number and not as a date.)
 
-> You can see that even though you wanted the year to be 2014, Excel
-> automatically interpreted it as 2015, the year you entered the data.
 
 ## Preferred date format
 

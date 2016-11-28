@@ -109,26 +109,26 @@ So, instead we should have:
 
 We're going to take a messy version of the survey data and clean it up.
 
-- Download the data by clicking [here](https://ndownloader.figshare.com/files/2252083) to get it from FigShare.
+- Download the data by clicking [here](https://www.dropbox.com/s/oirb1rzjzb1vjsg/gapminder-messy.xls?dl=1)
 
 
 - Open up the data in a spreadsheet program 
 
-- You can see that there are two tabs. Two field assistants conducted the surveys, one
-in 2013 and one in 2014, and they both kept track of the data in their own way. Now
+- You can see that there are four tabs. Data was collected from different sources by 
+different people. Now
 you're the person in charge of this project and you want to be able to start doing
 statistics with the data. 
 
-- With the person next to you, work on the messy data so that a computer will
-be able to understand it. Clean up the 2013 and 2014 tabs, and put them all together
-in one spreadsheet. 
+- With the person next to you, look at the messy data and identify some things wrong
+with this spreadsheet for good computer organization.
+
 
 > **Important** Do not forget of our first piece of advice, the
 > **create a new file (or tab)** for the cleaned data, **never
 > modify the original (raw) data**.
 
 After you go through this exercise, we'll discuss as a group what you think was wrong
-with this data and how you fixed it. 
+with this data.
 
 An excellent reference, in particular with regard to R scripting is
 
